@@ -1,0 +1,24 @@
+{
+  "name": "typescript-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmankhanA/TypeScript-rest-api.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "REST",
+    "API"
+  ],
+  "author": "Rahman Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmankhanA/TypeScript-rest-api/issues"
+  },
+  "homepage": "https://github.com/RahmankhanA/TypeScript-rest-api#readme"
+}
